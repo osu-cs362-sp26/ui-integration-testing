@@ -1,0 +1,9 @@
+{
+  "name": "ui-integration-testing",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
