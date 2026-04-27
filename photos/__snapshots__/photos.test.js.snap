@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`inserts multiple photo cards 1`] = `
+<ul
+  id="photo-card-list"
+>
+  <li
+    class="photo-card"
+  >
+    <img
+      alt="Caption #1"
+      src="https://picsum.photos/480"
+    />
+    <p>
+      Caption #1
+    </p>
+  </li>
+  <li
+    class="photo-card"
+  >
+    <img
+      alt="Caption #3"
+      src="https://picsum.photos/360"
+    />
+    <p>
+      Caption #3
+    </p>
+  </li>
+</ul>
+`;
